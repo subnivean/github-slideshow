@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My kingdom for a horse!
 Use the left arrow to go back!
